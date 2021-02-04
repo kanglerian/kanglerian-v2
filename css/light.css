@@ -1,0 +1,59 @@
+body {
+    background-color: white;
+    color: #333333;
+}
+
+.navbar {
+    background-color: white;
+    box-shadow: 0px 2px 4px rgba(114, 114, 114, 0.1);
+}
+
+.navbar ul li a {
+    color: #333333;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.form-search {
+    padding: 5px 5px 5px 15px;
+    background-color: #E7E7E7;
+    border: 0px;
+    border-radius: 10px;
+    color: #837C7C;
+}
+
+.form-search:focus {
+    background-color: #E7E7E7;
+    border: 0px;
+}
+
+.form-search:focus {
+    outline: none;
+}
+
+.btn-view {
+    background-color: #333333;
+    color: white;
+    border-style: none;
+    transition: 300ms ease-in-out;
+}
+
+.btn-view:hover {
+    background-color: #222222;
+}
+
+footer {
+    background-color: #F6F6F6;
+}
+
+.dropdown-content {
+    color: #333333;
+    background-color: white;
+}
+
+.card {
+    background-color: #ffffff;
+    box-shadow: 0px 2px 2px 0px rgba(95, 95, 95, 0.1);
+}

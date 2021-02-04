@@ -1,0 +1,70 @@
+body {
+    background-color: #333333;
+    color: white!important;
+}
+
+.navbar {
+    background-color: #333333;
+    box-shadow: 0px 2px 4px rgba(43, 43, 43, 0.5);
+}
+
+.navbar ul li a {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.form-search {
+    padding: 5px 5px 5px 15px;
+    background-color: #535353;
+    border: 0px;
+    border-radius: 10px;
+    color: #B4B4B4;
+}
+
+.form-search:focus {
+    background-color: #535353;
+    border: 0px;
+}
+
+.form-search:focus {
+    outline: none;
+}
+
+.btn-view {
+    background-color: white;
+    border-style: none;
+    color: #333333;
+    border-style: none;
+    transition: 300ms ease-in-out;
+}
+
+.btn-view:hover {
+    background-color: #e4e4e4;
+}
+
+.table {
+    color: white;
+}
+
+.table-hover tbody tr:hover {
+    color: #d4d4d4;
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+.card {
+    background-color: #535353;
+}
+
+footer {
+    padding-top: 20px;
+    text-align: center;
+    background-color: #535353;
+}
+
+.dropdown-content {
+    color: white;
+    background-color: #535353;
+}

@@ -1,0 +1,203 @@
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.navbar {
+    padding: 10px 10px;
+}
+
+.navbar ul li {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.navbar ul li a {
+    margin-top: 5px;
+    display: inline-block;
+    transition: 500ms;
+}
+
+.navbar ul li a:hover {
+    color: #B6B6B6;
+    transition: 500ms;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+.profile {
+    margin-left: 20px;
+}
+
+.heroBanner {
+    padding-top: 90px;
+    margin-bottom: 50px;
+}
+
+.heroBanner h1 {
+    margin-top: 35px;
+}
+
+.heroBanner h5 {
+    margin-bottom: 30px;
+}
+
+.dzikir {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.belajar {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.belajar ul li {
+    margin-right: 5px;
+    list-style: none;
+    display: inline;
+}
+
+.belajar .active {
+    font-weight: 800;
+    color: #ee5e3a;
+}
+
+.card {
+    border-radius: 20px;
+    transition: 500ms;
+    border: none;
+}
+
+.card:hover {
+    transition: 500ms;
+    box-shadow: 0px 8px 16px 0px rgba(95, 95, 95, 0.2);
+}
+
+.card h2 {
+    font-weight: 700;
+}
+
+.card h4 {
+    font-weight: 700;
+}
+
+.card p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+footer {
+    padding-top: 15px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.nav-link {
+    margin-bottom: 10px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+    z-index: 1;
+    border-radius: 1em;
+}
+
+.dropdown-content p:hover {
+    color: #ee5e3a;
+    transition: 500ms;
+}
+
+.dropdown-content p {
+    transition: 500ms;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+/* Button */
+
+a:hover {
+    color: #333333;
+}
+
+.btn-utama {
+    color: #333333;
+    background: #BAD961;
+    border: 0;
+    border-radius: 10px;
+    padding: 12px 60px;
+}
+
+.btn-utama:hover {
+    background: #97B73E;
+}
+
+.btn-utama:focus {
+    color: white;
+    background: #ee5e3a;
+    outline: none;
+}
+
+.btn-utama:active {
+    background: #ee5e3a;
+}
+
+
+/* Form */
+
+input[type=search] {
+    width: 200px;
+    transition: width 0.4s ease-in-out;
+}
+
+
+/* 
+input[type=search]:focus {
+    width: 100%;
+} */
+
+.view {
+    position: fixed;
+    bottom: 60px;
+    left: 1170px;
+    z-index: 100;
+}
+
+.btn-view {
+    text-align: center;
+    font-size: 12px;
+    padding: 8px 20px;
+    border-radius: 1em;
+}
+
+.btn-view:focus {
+    outline: none;
+}
+
+.form-search {
+    font-size: 15px;
+}
+
+.social {
+    padding-top: 150px;
+    padding-bottom: 200px;
+}

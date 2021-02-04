@@ -1,0 +1,96 @@
+{
+    "belajar": [{
+            "kategori": "Desain",
+            "nama": "Inkscape",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg",
+            "konten": "mYdJTxzlgOs"
+        }, {
+            "kategori": "Desain",
+            "nama": "CorelDRAW",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg",
+            "konten": "mYdJTxzlgOs"
+        }, {
+            "kategori": "Desain",
+            "nama": "Photoshop",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg",
+            "konten": "mYdJTxzlgOs"
+        }, {
+            "kategori": "Desain",
+            "nama": "Adobe Illustrator",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg",
+            "konten": "mYdJTxzlgOs"
+        },
+        {
+            "kategori": "Front End Developer",
+            "nama": "HTML Dasar",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 24000,
+            "gambar": "creamy-beef-fettuccine.jpg",
+            "konten": "mYdJTxzlgOs"
+        },
+        {
+            "kategori": "Front End Developer",
+            "nama": "CSS Dasar",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 24000,
+            "gambar": "creamy-beef-fettuccine.jpg",
+            "konten": "k7eqPnt1Omk"
+        },
+        {
+            "kategori": "Front End Developer",
+            "nama": "JavaScript Dasar",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 24000,
+            "gambar": "creamy-beef-fettuccine.jpg",
+            "konten": "k7eqPnt1Omk"
+        },
+        {
+            "kategori": "Back End Developer",
+            "nama": "PHP Dasar",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 24000,
+            "gambar": "meatballs-beef-mushroom.jpg",
+            "konten": "k7eqPnt1Omk"
+        },
+        {
+            "kategori": "Back End Developer",
+            "nama": "Python Dasar",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 24000,
+            "gambar": "meatballs-beef-mushroom.jpg",
+            "konten": "k7eqPnt1Omk"
+        },
+        {
+            "kategori": "Back End Developer",
+            "nama": "MySQL Dasar",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 24000,
+            "gambar": "meatballs-beef-mushroom.jpg",
+            "konten": "k7eqPnt1Omk"
+        },
+        {
+            "kategori": "Editing Video",
+            "nama": "AE Dasar",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 24000,
+            "gambar": "oriental-chicken.jpg",
+            "konten": "k7eqPnt1Omk"
+        },
+        {
+            "kategori": "Editing Video",
+            "nama": "PR Dasar",
+            "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "harga": 24000,
+            "gambar": "oriental-chicken.jpg",
+            "konten": "k7eqPnt1Omk"
+        }
+    ]
+}
